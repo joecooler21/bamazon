@@ -16,3 +16,4 @@ npm install mysql
 ```bash
 node bamazon
 ```
+![usage](/img/1.png)
