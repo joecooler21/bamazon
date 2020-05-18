@@ -14,5 +14,5 @@ npm install mysql
 ## Usage
 
 ```bash
-node app
+node bamazon
 ```
